@@ -1,0 +1,12 @@
+{
+    "name": "Upwork Refresh",
+    "version": "1.0",
+    "description": "Refresh Upwork Page",
+    "manifest_version": 3,
+    "author": "Benjamin Co",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upwork New Updates"
+    }
+    
+}
